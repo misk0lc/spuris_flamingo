@@ -10,6 +10,7 @@ namespace kristalyos_flamingo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine();
         }
     }
 }
